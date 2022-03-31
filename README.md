@@ -1,3 +1,11 @@
+[![](https://img.shields.io/badge/ALiBaiXiu-@Vogadero-success.svg?style=plastic)](https://github.com/Vogadero/ALiBaiXiu.com)
+![](https://img.shields.io/npm/v/drone.svg?style=plastic)
+![](https://img.shields.io/badge/language-JavaScript-orange.svg?style=plastic)
+![](https://img.shields.io/badge/express/v/drone.svg?style=plastic)
+![](https://img.shields.io/badge/language-Html-9cf.svg?style=plastic)
+![](https://img.shields.io/badge/language-Css-blueviolet.svg?style=plastic)
+![](https://img.shields.io/npm/l/express?style=plastic)
+
 # 项目简介🚩
 
 - 阿里百秀内容管理系统，分为后台内容管理和前台内容展示两大核心功能。
