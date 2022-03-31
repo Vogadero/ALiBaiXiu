@@ -87,7 +87,7 @@
    - `use admin` 切换到admin数据库
    - `db.auth('root', 'root')` 登录admin数据库
    - `use alibaixiu` 切换到alibaixiu数据库
-   - `db.createUser({user: 'itcast', pwd: 'itcast', roles: ['readWrite']})`  创建账号
+   - `db.createUser({user: 'root', pwd: 'root', roles: ['readWrite']})`  创建账号
    - `exit` 退出mongodb数据库操作环境
 
 4. 在app.js中配置数据库账号密码
