@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/ALiBaiXiu-@Vogadero-success.svg?style=plastic)](https://github.com/Vogadero/ALiBaiXiu.com)
+[![](https://img.shields.io/badge/ALiBaiXiu-@Vogadero-success.svg?style=plastic)](https://github.com/Vogadero/ALiBaiXiu)
 ![](https://img.shields.io/npm/v/drone.svg?style=plastic)
 ![](https://img.shields.io/badge/language-JavaScript-orange.svg?style=plastic)
 ![](https://img.shields.io/badge/express/v/drone.svg?style=plastic)
