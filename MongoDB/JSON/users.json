@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6231fc8a875361a58cd8691b"
+  },
+  "nickName": "Vogadero",
+  "email": "994019222@qq.com",
+  "password": "$2b$10$9Jf32ZeEowqgIqSLJN3FmeyUPAW/qo9s9KT8sAHiSXck1C0Pckun.",
+  "role": "admin",
+  "avatar": "\\uploads\\upload_036f0eefa849257918d37f71f8c858a6.png",
+  "createTime": {
+    "$date": "2022-03-16T15:04:42.872Z"
+  },
+  "status": 1
+},{
+  "_id": {
+    "$oid": "6238871065370d99eada25c5"
+  },
+  "nickName": "小虎",
+  "email": "xiaohu@qq.com",
+  "password": "$2b$10$5yKY4OvxcD.MYbbUxnbE1e7BtVVZbbxdWSa8qoKXWFvwYB8Qihv02",
+  "role": "normal",
+  "avatar": "",
+  "status": 1,
+  "createTime": {
+    "$date": "2022-03-21T14:09:20.075Z"
+  }
+},{
+  "_id": {
+    "$oid": "6238872365370d99eada25c9"
+  },
+  "nickName": "小白",
+  "email": "xiaobai@qq.com",
+  "password": "$2b$10$2oISt4w.Svkruo9/1PJu9.8vCHKnsRNJEkoF9nWxiDdcV1TEbtYWy",
+  "role": "admin",
+  "avatar": "\\uploads\\upload_e4939066bf67dd658f49f69af41ab1c1.png",
+  "status": 1,
+  "createTime": {
+    "$date": "2022-03-21T14:09:39.862Z"
+  }
+},{
+  "_id": {
+    "$oid": "6239d821f84a1a91f70c0354"
+  },
+  "nickName": "小微",
+  "email": "xiaowei@qq.com",
+  "password": "$2b$10$JVsQYMzXSvVIUPCkyyRIyOiBzKVjfoRGOWo3SDNOWLuy9OI7ZSvyC",
+  "role": "normal",
+  "avatar": "",
+  "status": 1,
+  "createTime": {
+    "$date": "2022-03-22T14:07:29.637Z"
+  }
+}]

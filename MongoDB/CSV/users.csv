@@ -1,0 +1,5 @@
+_id,avatar,createTime,email,nickName,password,role,status
+6231fc8a875361a58cd8691b,\uploads\upload_036f0eefa849257918d37f71f8c858a6.png,2022-03-16T15:04:42.872Z,994019222@qq.com,Vogadero,$2b$10$9Jf32ZeEowqgIqSLJN3FmeyUPAW/qo9s9KT8sAHiSXck1C0Pckun.,admin,1
+6238871065370d99eada25c5,,2022-03-21T14:09:20.075Z,xiaohu@qq.com,小虎,$2b$10$5yKY4OvxcD.MYbbUxnbE1e7BtVVZbbxdWSa8qoKXWFvwYB8Qihv02,normal,1
+6238872365370d99eada25c9,\uploads\upload_e4939066bf67dd658f49f69af41ab1c1.png,2022-03-21T14:09:39.862Z,xiaobai@qq.com,小白,$2b$10$2oISt4w.Svkruo9/1PJu9.8vCHKnsRNJEkoF9nWxiDdcV1TEbtYWy,admin,1
+6239d821f84a1a91f70c0354,,2022-03-22T14:07:29.637Z,xiaowei@qq.com,小微,$2b$10$JVsQYMzXSvVIUPCkyyRIyOiBzKVjfoRGOWo3SDNOWLuy9OI7ZSvyC,normal,1
