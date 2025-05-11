@@ -14,7 +14,7 @@
     "express": "^4.17.3",
     "express-formidable": "^1.2.0",
     "express-session": "^1.17.2",
-    "joi": "^17.6.0",
+    "joi": "^17.13.3",
     "lodash": "^4.17.21",
     "mongoose": "^6.2.6",
     "mongoose-query-random": "^1.0.1",
